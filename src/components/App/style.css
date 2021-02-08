@@ -1,0 +1,19 @@
+body {
+  background-color: #ddd;
+
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+
+#board {
+  width:80%;
+  margin: auto;
+  padding: 20px;
+}
+
+
+
